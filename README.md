@@ -1,13 +1,11 @@
 # Thon-product-card
 
-este es mi paquete de pruebas para subir a NPM
+este es mi paquete de pruebas para subir a NPM.
 
 ## Tabla de Contenidos
 
 - [Visión general](#visión-general)
   - [Proyecto](#proyecto)
-  - [Capturas de pantalla](#capturas-de-pantalla)
-    - [Escritorio](#escritorio)
 - [Mi Proceso](#mi-proceso)
   - [Desarrollado con](#desarrollado-con)
   - [Instalación](#instalación)
@@ -17,13 +15,8 @@ este es mi paquete de pruebas para subir a NPM
 
 ### Proyecto
 
+En este Proyecto usamos React + TypeScript  para construir una seria de componentes reutilizables, también aplicamos testing y patrones de componentes.
 
-
-### Capturas de pantalla
-
-#### Escritorio
-
-<image src="src\assets\images\nameImage.png" alt="nameImage">
 
 ### Codigo de Ejemplo
 
@@ -73,8 +66,6 @@ import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'thon-pr
 `cd ./thon-proyect-card`
 
 
-
-
 ### Scripts del proyecto
 
 #### Instalar Dependencias
@@ -91,7 +82,7 @@ import { ProductCard, ProductImage, ProductTitle, ProductButtons } from 'thon-pr
 
 ## Autor
 
-### Alejandro Thon
+### Alejandro Thon.
 
 - Linkedin - [Linkedin - Alejandro Thon](www.linkedin.com/in/alejandrothon/)
 - Email - alejandro.thon.j@gmail.com
