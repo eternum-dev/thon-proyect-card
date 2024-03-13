@@ -2,8 +2,6 @@ import 'react-app-polyfill/ie11';
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 import { ProductCard, ProductImage, ProductTitle, ProductButtons } from '../.';
-import { products } from '../src/data/products';
-
 
 
 
