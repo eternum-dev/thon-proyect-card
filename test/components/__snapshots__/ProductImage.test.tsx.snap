@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el componente <ProductImage /> Debe de motrar el imagen 1`] = `[Function]`;
+
+exports[`Pruebas en el componente <ProductImage /> Debe de motrar el imagen 2`] = `[Function]`;
+
+exports[`Pruebas en el componente <ProductImage /> Debe de motrar la imagen 1`] = `[Function]`;
+
+exports[`Pruebas en el componente <ProductImage /> Debe de motrarel componente con la imagen del producto 1`] = `[Function]`;
